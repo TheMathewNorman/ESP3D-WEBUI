@@ -74,7 +74,9 @@
         "preact": "^10.10.1",
         "preact-feather": "^4.2.1",
         "smoothie": "^1.36.0",
-        "spectre.css": "luc-github/spectre"
+        "source-map-loader": "^5.0.0",
+        "spectre.css": "luc-github/spectre",
+        "ts-loader": "^9.5.1"
     },
     "browserslist": {
         "production": [
